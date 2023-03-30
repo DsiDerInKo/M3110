@@ -1,0 +1,183 @@
+{
+  "main": {
+    "id": "47df2dccd087f5b4",
+    "type": "split",
+    "children": [
+      {
+        "id": "13a370aa38309b2d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0060bbbb6f7aa60b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Conspects/CppProg/Лекция_1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "93b8efe8906d6b8e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Conspects/CppProg/Лекция_2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "33f7d2c3a2fdb374",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Conspects/CppProg/Лекция_2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ed191a4a0182cf8b",
+    "type": "split",
+    "children": [
+      {
+        "id": "49985ac0a0f00ef8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3ce525d8921f1f69",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "89603e0433837051",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "182fd3fa19b2953c",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4452c1b4fbd104ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "53d3089781bb5e98",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dfca713020e7f8c8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Conspects/CppProg/Лекция_2.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d8bdb92322d0f532",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Conspects/CppProg/Лекция_2.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2ffdd1658b8899d7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "dda73bd2fe112db8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Conspects/CppProg/Лекция_2.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "33f7d2c3a2fdb374",
+  "lastOpenFiles": [
+    "Conspects/CppProg/Лекция_1.md",
+    "Tempates/Template for lecture.md",
+    "Conspects/CppProg/Лекция_2.md",
+    "Untitled.md",
+    "Tempates",
+    "Files"
+  ]
+}
